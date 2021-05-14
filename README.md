@@ -1,1 +1,0 @@
-# Automated-Q-A-System-Cohort-Aravali
